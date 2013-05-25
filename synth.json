@@ -1,0 +1,7 @@
+{
+    "midiChannel": 1,
+    "output": "IAC Bus 2",
+    "stepLength": 6,
+    "startTick": 288,
+    "steps": [40, -1, 40, -1, 42, -1, 36, -1]
+}
